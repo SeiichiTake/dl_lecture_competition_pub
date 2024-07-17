@@ -116,5 +116,5 @@ class ResidualBlock(nn.Module):
 
 ### GitHubレポジトリのリンク
 
-[https://github.com/SeiichiTake/dl_lecture_competition_pub/tree/MEG-competition]
+[https://github.com/SeiichiTake/dl_lecture_competition_pub/tree/MEG-competition](https://github.com/SeiichiTake/dl_lecture_competition_pub/tree/MEG-competition)
 
